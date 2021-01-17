@@ -1,4 +1,4 @@
-# SmartLamp
+# Matrix Lamp Prototype
 
 ## Intro
 
