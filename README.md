@@ -1,4 +1,4 @@
-# Matrix Lamp Prototype
+# LED Panel Prototype
 
 ## Intro
 
